@@ -77,3 +77,13 @@
 .searchResultContent p{
     color: rgb(98, 98, 98);
 }
+
+@media screen and (max-width: 768px) {
+    .searchPart {
+        width: 90%;
+    }
+
+    .searchResult {
+        width: 95%;
+    }
+}
